@@ -10,7 +10,7 @@
 - [ ] [Typescript]()
 - [ ] [Node JS]()
 - [ ] [jQuery]()
-- [ ] []()
+- [ ] [Unix Command]()
 - [ ] []()
 - [ ] []()
 - [ ] []()
