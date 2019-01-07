@@ -14,5 +14,5 @@
 - [ ] [Docker]()
 - [ ] [Amazon AWS Trial]()
 - [ ] [Yarn]()
-- [ ] []()
-- [ ] []()
+- [ ] [Express JS](https://expressjs.com/)
+- [ ] [Mongo DB](https://www.mongodb.com/)
