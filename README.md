@@ -1,4 +1,7 @@
 > Sangman Lee and Chulwoo Lee June, 2015
+## Programming Skills
+- ![](https://angular.io/assets/images/favicons/favicon-32x32.png)
+
 
 ## 배워보고 싶은것들
 - [ ] [Bootstrap 4]() 
