@@ -3,6 +3,10 @@
 - ![](https://angular.io/assets/images/favicons/favicon-32x32.png)
 
 
+## Personal Projects
+- [ ] Wallpaper Changer : Android
+- [ ] Youtube to MP3 : Desktop App or Web App
+
 ## 배워보고 싶은것들
 - [ ] [Bootstrap 4]() 
 - [ ] [Android]()
