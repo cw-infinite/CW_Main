@@ -23,3 +23,6 @@
 - [ ] [Yarn]()
 - [ ] [Express JS](https://expressjs.com/)
 - [ ] [Mongo DB](https://www.mongodb.com/)
+
+### Objective
+- [Memorize](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
