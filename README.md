@@ -6,9 +6,14 @@
 ## Personal Projects
 - [ ] Wallpaper Changer : Android
 - [ ] Youtube to MP3 : Desktop App or Web App
-* [Big O Notation Cheet Sheet App]()
+* [Big O Notation Cheet Sheet App](https://github.com/deadmeats/Big-O-Sheet)
 * NG7 App Wunderlist Benchmark
-## 배워보고 싶은것들
+* Jamini : Mouse movement Macro
+
+## Objectives
+- [Memorize](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
+
+## 배워보고 싶은 Skills
 - [ ] [Bootstrap 4]() 
 - [ ] [Android]()
 - [ ] [React]()
@@ -25,5 +30,3 @@
 - [ ] [Express JS](https://expressjs.com/)
 - [ ] [Mongo DB](https://www.mongodb.com/)
 
-### Objective
-- [Memorize](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
