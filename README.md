@@ -1,4 +1,4 @@
-> Sangman Lee and Chulwoo Lee June, 2015
+> Since June, 2015
 ## Programming Skills
 - ![](https://angular.io/assets/images/favicons/favicon-32x32.png)
 
