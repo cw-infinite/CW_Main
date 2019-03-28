@@ -1,7 +1,8 @@
 > Since June, 2015
 ## Programming Skills
 - ![](https://angular.io/assets/images/favicons/favicon-32x32.png)
-
+- ![](https://rxjs-dev.firebaseapp.com/assets/images/favicons/favicon-32x32.png)
+- ![](https://ngrx.io/assets/images/favicons/favicon-32x32.png)
 
 ## Personal Projects
 - [ ] Wallpaper Changer : Android
