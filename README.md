@@ -9,6 +9,7 @@
 * [Big O Notation Cheet Sheet App](https://github.com/deadmeats/Big-O-Sheet)
 * NG7 App Wunderlist Benchmark
 * Jamini : Mouse movement Macro
+* Personalized Dashboard
 
 ## Objectives
 - [Memorize](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
