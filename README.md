@@ -14,6 +14,10 @@
 ## Objectives
 - [Memorize](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
 
+## Algorithm Topics
+- [ ] Permutation
+- [ ] How to use and present Bits with Java and JS(mostly JS)
+
 ## 배워보고 싶은 Skills
 - [ ] [Bootstrap 4]() 
 - [ ] [Android]()
