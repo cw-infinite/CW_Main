@@ -7,6 +7,7 @@
 - [ ] Wallpaper Changer : Android
 - [ ] Youtube to MP3 : Desktop App or Web App
 * [Big O Notation Cheet Sheet App](https://github.com/deadmeats/Big-O-Sheet)
+  * Much better Idea => 100 algorithms challange [100 days algorithms challange](https://github.com/coells/100days)
 * NG7 App Wunderlist Benchmark
 * Jamini : Mouse movement Macro
 * Personalized Dashboard
