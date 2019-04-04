@@ -1,5 +1,5 @@
 <mat-toolbar class="header">
-  <button mat-icon-button (click)="sidenav.toggle()" color="primary">
+  <button mat-icon-button (click)="sidenav.toggle()">
     <mat-icon>menu</mat-icon>
   </button>
 
@@ -7,11 +7,11 @@
 
   </button> -->
 
-  <span>CW</span>
+  <a class="homeCW" routerLink="/"><span>CW</span></a>
   <div style="margin: 0 30px; text-decoration: none;">
-    <button mat-button routerLink="/bigO">Big-O <mat-icon>grade</mat-icon></button>
-    <button mat-button routerLink="/playground">Playground <mat-icon>stars</mat-icon></button>
-    <button mat-button routerLink="/jsDiff">JS_Diff <mat-icon>brightness_4</mat-icon></button>
+    <button mat-button routerLink="/bigO" routerLinkActive="mat-accent">Big-O <mat-icon>grade</mat-icon></button>
+    <button mat-button routerLink="/playground" routerLinkActive="mat-accent">Playground <mat-icon>stars</mat-icon></button>
+    <button mat-button routerLink="/jsDiff" routerLinkActive="mat-accent">JS_Diff <mat-icon>brightness_4</mat-icon></button>
     <button mat-button [matMenuTriggerFor]="cwMenu">Nested Menu <mat-icon>arrow_drop_down</mat-icon></button>
   </div>
 

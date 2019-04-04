@@ -11,8 +11,11 @@ import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatButtonModule } from '@angular/material/button';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatMenuModule } from '@angular/material/menu';
+
+import { HeaderComponent } from './core/header/header.component';
+import { HomeComponent } from './core/home/home.component';
+
 import { BigOComponent } from './big-o/big-o.component';
-import { HeaderComponent } from './header/header.component';
 import { PlaygroundComponent } from './playground/playground.component';
 import { JsDiffComponent } from './js-diff/js-diff.component';
 
@@ -22,7 +25,8 @@ import { JsDiffComponent } from './js-diff/js-diff.component';
     BigOComponent,
     HeaderComponent,
     PlaygroundComponent,
-    JsDiffComponent
+    JsDiffComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
