@@ -16,7 +16,6 @@ import { HeaderComponent } from './core/header/header.component';
 import { HomeComponent } from './core/home/home.component';
 
 import { BigOComponent } from './big-o/big-o.component';
-import { PlaygroundComponent } from './playground/playground.component';
 import { JsDiffComponent } from './js-diff/js-diff.component';
 
 @NgModule({
@@ -24,7 +23,6 @@ import { JsDiffComponent } from './js-diff/js-diff.component';
     AppComponent,
     BigOComponent,
     HeaderComponent,
-    PlaygroundComponent,
     JsDiffComponent,
     HomeComponent
   ],
