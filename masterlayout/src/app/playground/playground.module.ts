@@ -4,6 +4,8 @@ import { Play2Component } from './play2/play2.component';
 import { Play3Component } from './play3/play3.component';
 import { PlaygroundRoutingModule } from './playground-routing.module';
 import { PlaygroundComponent } from './playground.component';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { CommonModule } from '@angular/common';
 
 @NgModule({
   declarations: [
@@ -13,7 +15,10 @@ import { PlaygroundComponent } from './playground.component';
     Play3Component
   ],
   imports: [
-    PlaygroundRoutingModule
+    CommonModule,
+    PlaygroundRoutingModule,
+    FormsModule,
+    ReactiveFormsModule
   ],
   exports: []
 })
