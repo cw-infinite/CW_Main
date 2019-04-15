@@ -20,6 +20,8 @@
 - [ ] How to use and present Bits with Java and JS(mostly JS)
 
 ## 배워보고 싶은 Skills
+- [ ] Something important!! http://bootstraptour.com/ that I have been looking for
+
 - [ ] [Bootstrap 4]() 
 - [ ] [Android]()
 - [ ] [React]()
