@@ -11,7 +11,8 @@ const routes: Routes = [
   { path: 'jsDiff', component: JsDiffComponent},
   { path: 'bigO', component: BigOComponent},
   { path: 'playground', loadChildren: './playground/playground.module#PlaygroundModule'},
-  { path: '', component: HomeComponent}
+  { path: '', component: HomeComponent},
+  { path: '**', redirectTo: ''}
 ];
 
 @NgModule({
