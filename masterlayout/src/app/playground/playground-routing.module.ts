@@ -9,7 +9,7 @@ const playRoutes = [
   { path: '', component: PlaygroundComponent, children: [
     { path: 'play1', component: Play1Component},
     { path: 'play2', component: Play2Component},
-    { path: 'play3', component: Play3Component},
+    { path: 'play3', component: Play3Component}
   ]}
 
 ];

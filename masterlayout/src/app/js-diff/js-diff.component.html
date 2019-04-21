@@ -1,15 +1,30 @@
-<mat-grid-list cols="3" rowHeight="1:2">
-    <mat-grid-tile>
-        <mat-form-field>
-            <textarea matInput placeholder="Original"></textarea>
-        </mat-form-field>
-    </mat-grid-tile>
-    <mat-grid-tile>
-        buttons
-    </mat-grid-tile>
-    <mat-grid-tile>
-        <mat-form-field>
-            <textarea matInput placeholder="Changed"></textarea>
-        </mat-form-field>
-    </mat-grid-tile>
+<mat-grid-list cols="3" rowHeight="500px">
+  <mat-grid-tile>
+    <mat-form-field>
+      <textarea
+        matInput
+        rows="20"
+        cols="60"
+        placeholder="Original">
+      </textarea>
+    </mat-form-field>
+  </mat-grid-tile>
+  <mat-grid-tile>
+    <button mat-raised-button>
+      Button 1
+    </button>
+    <button mat-button>
+      Button 2
+    </button>
+  </mat-grid-tile>
+  <mat-grid-tile>
+    <mat-form-field>
+        <textarea
+        matInput
+        rows="20"
+        cols="60"
+        placeholder="Changed">
+        </textarea>
+    </mat-form-field>
+  </mat-grid-tile>
 </mat-grid-list>
