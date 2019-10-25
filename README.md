@@ -1,7 +1,10 @@
 > Since June, 2015
-## Programming Skills
-- ![](https://angular.io/assets/images/favicons/favicon-32x32.png)
-- ![](https://ngrx.io/assets/images/favicons/favicon-32x32.png)
+## Tools
+Name|Am·blem
+------------ | -------------
+**Angular.IO**| ![](https://angular.io/assets/images/favicons/favicon-32x32.png) ![](https://ngrx.io/assets/images/favicons/favicon-32x32.png)
+**SalesForce LWC**| ![](https://lwc.dev/assets/images/favicon-32x32.png) 
+
 
 ## Personal Projects
 - [ ] Wallpaper Changer : Android
@@ -11,6 +14,7 @@
 * NG7 App Wunderlist Benchmark
 * Jamini : Mouse movement Macro
 * Personalized Dashboard
+* CellHunter
 
 ## Objectives
 - [Memorize](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
@@ -19,22 +23,21 @@
 - [ ] Permutation
 - [ ] How to use and present Bits with Java and JS(mostly JS)
 
-## 배워보고 싶은 Skills
-- [ ] Something important!! http://bootstraptour.com/ that I have been looking for
-
-- [ ] [Bootstrap 4]() 
-- [ ] [Android]()
-- [ ] [React]()
-- [ ] [Angular]()
-- [ ] [CSS 5]()
-- [ ] [SSCS]()
-- [ ] [Typescript]()
-- [ ] [Node JS]()
-- [ ] [jQuery]()
-- [ ] [Unix Command]()
-- [ ] [Docker]()
-- [ ] [Amazon AWS Trial]()
-- [ ] [Yarn]()
-- [ ] [Express JS](https://expressjs.com/)
-- [ ] [Mongo DB](https://www.mongodb.com/)
+## Wish List
+- Something important!! http://bootstraptour.com/ that I have been looking for
+- [Bootstrap 4]() 
+- [Android]()
+- [React]()
+- [Angular]()
+- [CSS 5]()
+- [SSCS]()
+- [Typescript]()
+- [Node JS]()
+- [jQuery]()
+- [Unix Command]()
+- [Docker]()
+- [Amazon AWS Trial]()
+- [Yarn]()
+- [Express JS](https://expressjs.com/)
+- [Mongo DB](https://www.mongodb.com/)
 
