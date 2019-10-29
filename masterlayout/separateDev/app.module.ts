@@ -1,6 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
+import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
 // NG Material Section
@@ -16,12 +17,23 @@ import { MatGridListModule } from '@angular/material/grid-list';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
 
+import { HeaderComponent } from './core/header/header.component';
+import { HomeComponent } from './core/home/home.component';
+
+import { BigOComponent } from './big-o/big-o.component';
+import { JsDiffComponent } from './js-diff/js-diff.component';
+
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    BigOComponent,
+    HeaderComponent,
+    JsDiffComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
+    AppRoutingModule,
 
     // Material Design
     BrowserAnimationsModule,

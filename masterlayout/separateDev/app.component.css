@@ -1,0 +1,40 @@
+
+
+.header{
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.homeCW {
+  text-decoration: none;
+  color: white;
+}
+
+/* .header a{
+  text-decoration: none;
+} */
+
+.mat-sidenav-container {
+  position: absolute;
+  /* when shirinked, top toolbar is 56px */
+  top: 56px;
+  bottom: 64px;
+  left: 0;
+  right: 0;
+}
+
+.mat-sidenav-container .mat-sidenav {
+  min-width: 200px;
+  padding: 40% 0;
+}
+
+
+
+.footer{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
