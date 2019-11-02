@@ -9,6 +9,13 @@ Name|Am·blem
 >Can't do all the shet at once. Top 2 only. milestones
 - [x] Project methodology research
   - [ ] [XPS](http://xp.c2.com/ExtremeProgrammingForOne.html)
+  - You can create a spreadsheet of feature requests, prioritize them & pick the top-most one.
+  - define the acceptance criteria (what done looks like) and code it up into a executable test
+  - Next define engineering tasks to get to done
+  - Write unit tests, do the simplest thing (YAGNI) and refactor all the time. The goal is to make the outer acceptance test pass
+  - Timebox each session. For effective time-management, you could also look at the Pomodoro technique.
+  - Use version control & Setup a CI server / a batch file to create a install or zip of your software
+  - Demo frequently. Route the feedback into the original spreadsheet and reprioritize
 - [ ] Wireframe
 
 #### Personal Projects
