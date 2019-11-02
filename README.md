@@ -5,16 +5,23 @@ Name|Am·blem
 **Angular.IO**| ![](https://angular.io/assets/images/favicons/favicon-32x32.png) ![](https://ngrx.io/assets/images/favicons/favicon-32x32.png)
 **SalesForce LWC**| ![](https://lwc.dev/assets/images/favicon-32x32.png) 
 
+## Priority. 
+>Can't do all the shet at once. Top 2 only. milestones
+- [ ] Project methodology research
+- [ ] Wireframe
 
-## Personal Projects
-- [ ] Wallpaper Changer : Android
-- [ ] Youtube to MP3 : Desktop App or Web App
+#### Personal Projects
+1. CellHunter
+2. Kims
+
+* Wallpaper Changer : Android
+* Youtube to MP3 : Desktop App or Web App
 * [Big O Notation Cheet Sheet App](https://github.com/deadmeats/Big-O-Sheet)
   * Much better Idea => 100 algorithms challange [100 days algorithms challange](https://github.com/coells/100days)
 * NG7 App Wunderlist Benchmark
 * Jamini : Mouse movement Macro
 * Personalized Dashboard
-* CellHunter
+
 
 ## Objectives
 - [Memorize](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
