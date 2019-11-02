@@ -7,7 +7,8 @@ Name|Am·blem
 
 ## Priority. 
 >Can't do all the shet at once. Top 2 only. milestones
-- [ ] Project methodology research
+- [x] Project methodology research
+  - [ ] [XPS](http://xp.c2.com/ExtremeProgrammingForOne.html)
 - [ ] Wireframe
 
 #### Personal Projects
