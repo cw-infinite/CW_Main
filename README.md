@@ -16,7 +16,7 @@ Name|Am·blem
   - Timebox each session. For effective time-management, you could also look at the Pomodoro technique.
   - Use version control & Setup a CI server / a batch file to create a install or zip of your software
   - Demo frequently. Route the feedback into the original spreadsheet and reprioritize
-- [ ] Wireframe
+- [ ] Wireframe [Story](https://github.com/cw-infinite/CW_Main/issues/20)
 
 #### Personal Projects
 1. CellHunter
