@@ -1,6 +1,7 @@
 module.exports = {
+  pathPrefix: "/public",
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
+    siteUrl: "https://http://cw-infinite.github.io/cw_main",
     title: "cw_main",
   },
   plugins: [
