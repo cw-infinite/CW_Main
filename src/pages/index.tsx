@@ -1,5 +1,9 @@
 import { graphql, PageProps } from "gatsby"
 import * as React from "react"
+import App from './components/app'
+
+import { ChakraProvider } from "@chakra-ui/react"
+import { Flex, Spacer, Box, Heading, Button } from "@chakra-ui/react"
 // import Layout from "../components/layout"
 // import Source from "../components/source"
 
@@ -30,14 +34,22 @@ export default class IndexPage extends React.Component<IndexPageProps> {
   public render() {
     const { siteName } = this.props.data.site.siteMetadata
     return (
-        <div>Hello World</div>
-    //   <Layout>
-    //     <h1>{this.hello} TypeScript world!</h1>
-    //     <p>
-    //       This site is named <strong>{siteName}</strong>
-    //     </p>
-    //     <Source description="Interested in details of this site?" />
-    //   </Layout>
+      <ChakraProvider>
+        {/* <Component {...pageProps} /> */}
+
+          <Flex margin="2">
+		 	<Box>
+				<Heading size="md">CW Laboratory</Heading>
+			</Box>
+			<Spacer />
+			<Box>
+				<Button colorScheme="orange" mr="4">
+				Menu
+				</Button>
+			<Button colorScheme="orange">Log in</Button>
+		</Box>
+		</Flex>
+        </ChakraProvider>
     )
   }
 }
