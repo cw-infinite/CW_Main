@@ -3,7 +3,8 @@ import * as React from "react"
 import App from './components/app'
 
 import { ChakraProvider } from "@chakra-ui/react"
-import { Flex, Spacer, Box, Heading, Button } from "@chakra-ui/react"
+import { Flex, Spacer, Box, Heading, Button,
+  Menu, MenuButton, MenuList, MenuGroup, MenuItem, MenuDivider} from "@chakra-ui/react"
 // import Layout from "../components/layout"
 // import Source from "../components/source"
 
@@ -46,7 +47,23 @@ export default class IndexPage extends React.Component<IndexPageProps> {
 				<Button colorScheme="orange" mr="4">
 				Menu
 				</Button>
-			<Button colorScheme="orange">Log in</Button>
+			<Button colorScheme="orange" mr="4">Log in</Button>
+      <Menu>
+        <MenuButton as={Button} colorScheme="blue">
+          Profile
+        </MenuButton>
+        <MenuList>
+          <MenuGroup title="Profile">
+            <MenuItem>My Account</MenuItem>
+            <MenuItem>Payments </MenuItem>
+          </MenuGroup>
+          <MenuDivider />
+          <MenuGroup title="Help">
+            <MenuItem>Docs</MenuItem>
+            <MenuItem>FAQ</MenuItem>
+          </MenuGroup>
+        </MenuList>
+      </Menu>
 		</Box>
 		</Flex>
         </ChakraProvider>
