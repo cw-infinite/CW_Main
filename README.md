@@ -1,8 +1,13 @@
 > Since June, 2015
 
-1 Issue at a time.
-- [ ] Set up GH-Page for CW-Main
-- [ ] Chakra UI application : TODO App
+1 Issue at a time. Big Milestones.
+- [x] Set up GH-Page for CW-Main
+- [ ] TODO APP
+      - [ ] version 0.1
+      - [ ] Github page
+      - [ ] Initial Design
+- [ ] Firebase host.
+      - [ ]       
 - [ ] Integration with Google Firebase
 - [ ] Requirements update
 
